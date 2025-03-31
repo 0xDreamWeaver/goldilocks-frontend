@@ -1,1 +1,1 @@
-export const APP_NAME = 'Web3 Template'
+export const APP_NAME = 'Goldilocks'

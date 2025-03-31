@@ -1,11 +1,7 @@
-@tailwind base;
+@import 'tailwindcss';
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
-
-@font-face {
-    font-family: "Micro";
-    src: url("../../public/fonts/Micro.woff2");
-}
+@tailwind utilities; */
 
 .lds-ring {
     display: inline-block;
